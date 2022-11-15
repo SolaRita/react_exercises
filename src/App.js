@@ -1,5 +1,5 @@
 import './App.css';
-import Morty from './pages/morty';
+import Morty from './pages/morty.jsx';
 
 function App() {
   return (
